@@ -8,7 +8,7 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 <!-- <script src="https://code.jquery.com/jquery-1.12.4.js"></script> -->
-  <title>date picker bootstrap</title>
+  <title>Date Picker Bootstrap</title>
   <style type="text/css">
   	@import url("https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/blitzer/jquery-ui.min.css");
 		.event a {
